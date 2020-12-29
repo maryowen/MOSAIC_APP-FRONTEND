@@ -1,6 +1,7 @@
 # mosaicapp
 
 A new Flutter application.
+ORIGINAL REPO AT: GITHUB.COM/PESIMPSO/MOSAIC-FRONTEND
 
 ## Getting Started
 
